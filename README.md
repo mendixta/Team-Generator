@@ -17,4 +17,4 @@ Next, the node.js portion was built: One of the issues that I had while creating
 
 # Video Walkthrough or Preview: (Screenshot?)
 
-<!-- Link to video walkthrough here -->
+https://vimeo.com/682737256
