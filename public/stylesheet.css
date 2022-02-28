@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(235, 240, 250);
+}
+
+.title-box {
+    background-color: cornflowerblue;
+    padding-bottom: 2rem;
+}
+
+
+h1 {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+i {
+    padding-left: 5px;
+}
+
+.box {
+    padding: 3rem;
+    border-radius: 2rem;
+}
+
+.manager-box {
+    padding-left: 35rem;
+    padding-right: 35rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.engineer-box {
+    padding-left: 35rem;
+    padding-right: 35rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.intern-box {
+    padding-left: 35rem;
+    padding-right: 35rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}

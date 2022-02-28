@@ -1,0 +1,26 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "an app where you can add employees to your software engineering team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendixta/team-profile-generator.git"
+  },
+  "author": "griselda mendieta / mendixta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mendixta/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/mendixta/team-profile-generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.0"
+  }
+}
